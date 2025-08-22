@@ -8,7 +8,7 @@ An app that checks every n seconds for the newest posts in a subreddit's front p
 cargo run <subreddit_name> [sort_order] [interval_in_seconds]
 ```
 
-##Usage with Docker
+## Usage with Docker
 
 ```console
 docker pull petrughionea/projects:reddit-monitor
