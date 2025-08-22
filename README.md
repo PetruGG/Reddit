@@ -2,7 +2,7 @@
 
 An app that checks every n seconds for the newest posts in a subreddit's front page and fetches them.
 
-## Usage with Rust
+## Usage
 
 ```rust
 cargo build
